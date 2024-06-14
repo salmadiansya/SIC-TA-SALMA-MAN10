@@ -8,7 +8,7 @@
 > **School:** MAN 10 JAKARTA
 
 # CIRCUIT IMAGE
-
+![CIRCUIT IMAGE](IMAGE.jpeg)
 # ARDUINO CODE
 `````
 #include <WiFi.h>
